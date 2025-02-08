@@ -2,8 +2,6 @@
 
 A modern web application that generates concise summaries, key takeaways, and valuable insights from any article URL using Google's Gemini AI.
 
-![Article Summarizer](https://clever-lollipop-c47756.netlify.app/screenshot.png)
-
 ## 🌟 Features
 
 - **Instant Article Summaries**: Get quick, AI-powered summaries of any article
